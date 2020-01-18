@@ -75,6 +75,9 @@ header h5{
 .letter:hover{
   font-variation-settings: 'wght' 40, 'XXXX' 0;
 }
+.letter:active{
+  font-variation-settings: 'wght' 40, 'XXXX' 100;
+}
 @keyframes slide {
   0% {
     font-variation-settings: 'wght' 700, 'XXXX' 0;
